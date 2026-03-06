@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "凛",
+  "base_artist": "常闇トワ",
+  "createdAt": "2026-03-06T12:12:20.818013Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "凛 (「MiX」ver.)",
+      "artist": "ASCA",
+      "has_synced": true,
+      "path": "select/01_凛_(「MiX」ver.)_ASCA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "凛",
+      "artist": "ASCA",
+      "has_synced": true,
+      "path": "select/02_凛_ASCA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "凛",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/03_凛_Superfly.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "チュチュ・バレリーナ ～スミレ & 凛 Ver.～",
+      "artist": "もな・ななせ from AIKATSU☆STARS!",
+      "has_synced": true,
+      "path": "select/04_チュチュ・バレリーナ_~スミレ_&_凛_Ver.~_もな・ななせ_from_AIKATSU☆STARS!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chica×Chica - ～珠璃 & 凛 & まどか Ver.～",
+      "artist": "みほ・ななせ・かな from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/05_Chica×Chica_-_~珠璃_&_凛_&_まどか_Ver.~_みほ・ななせ・かな_from_AIKATSU☆STARS!.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "凛 (Grancrest Senki)",
+      "artist": "ASCA",
+      "has_synced": true,
+      "path": "select/06_凛_(Grancrest_Senki)_ASCA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "凛 - Rin",
+      "artist": "ASCA",
+      "has_synced": true,
+      "path": "select/07_凛_-_Rin_ASCA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "凛",
+      "artist": "ASCA",
+      "has_synced": true,
+      "path": "select/08_凛_ASCA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chica×Chica ～珠璃 & 凛 & まどか Ver.～",
+      "artist": "みほ・ななせ・かな from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/09_Chica×Chica_~珠璃_&_凛_&_まどか_Ver.~_みほ・ななせ・かな_from_AIKATSU☆STARS!.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "凛",
+      "artist": "Asriel",
+      "has_synced": true,
+      "path": "select/10_凛_Asriel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "凛",
+      "artist": "常闇トワ",
+      "has_synced": false,
+      "path": "select/pl_01_凛_常闇トワ.txt"
+    }
+  ]
+}
